@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>I’m a BCA student focused on becoming a Full Stack Developer and building real-world applications.<br><br>💻 What I’m doing:<br><br>* Building web apps with practical use cases<br>* Exploring AI tools and integrations<br>* Learning backend development and databases<br><br>🎯 Goal:<br>To become a skilled developer, earn at a high level, and build my own products/startup.<br><br>🤝 Open to:<br><br>* Collaborating on projects<br>* Learning and improving through real work<br>
+><br>I’m a BCA student focused on becoming a Full Stack Developer and building real-world applications.<br><br>💻 What I’m doing:<br><br>* Building web apps with practical use cases<br>* Exploring AI tools and integrations<br>* Learning backend development and databases<br><br>🎯 Goal:<br>To become a skilled developer, earn at a high level, and build my own products/startup.<br><br>🤝 Open to:<br><br>* Collaborating on projects<br>* Learning and improving through real work<br>
 
 
 ## 🌐 Socials:
